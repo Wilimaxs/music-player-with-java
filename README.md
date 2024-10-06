@@ -1,0 +1,4 @@
+# music-player-with-java
+This repository is created to build a music player application 🎵 using Java in Android Studio, as part of my personal learning 📚, with progress made incrementally. This project is intended solely for learning purposes and not for commercial use. If there are any similarities in the images or assets used, please inform me so I can replace them promptly ⚠️.
+
+The music player app is designed to play audio files from local storage, display a song list 🎶, and offer features like shuffle 🔀 and repeat 🔁. Additionally, I am exploring how to add extra functionalities such as an equalizer 🎚️, customizable playlists 🎧, and music visualization 🎨. This development process is part of my effort to deepen my understanding of Android, Java, and media management on mobile devices 📱.
